@@ -70,7 +70,7 @@ body {
 
 
                     </div>
-                    <div class="media-body mb-5 text-white">
+                    <div class="media-body mb-5 text-black">
                         <h4 class="mt-0 mb-0"> <?php echo $_SESSION['ses_fullname']; ?> </h4>
                         <p class="small mb-4"> <i class="fas fa-map-marker-alt mr-2"></i>
 
@@ -96,9 +96,11 @@ body {
             <div class="px-4 py-3">
                 <h5 class="mb-0">Expertise </h5>
                 <div class="p-4 rounded shadow-sm bg-light">
-                    <p class="font-italic mb-0">Full-stack Web Developer</p>
-                    <p class="font-italic mb-0">Mobile App Developer</p>
-                    <p class="font-italic mb-0">Photographer/Videographer</p>
+                    <p class="font-italic mb-0">Security Awareness</p>
+                    <p class="font-italic mb-0">Hardware and Peripherals</p>
+                    <p class="font-italic mb-0">Troubleshooting and Problem Solving</p>
+                    <p class="font-italic mb-0">Networking and Internet Connectivity</p>
+                    <p class="font-italic mb-0">Continuous Learning and Adaptability</p>
                 </div>
             </div>
 
